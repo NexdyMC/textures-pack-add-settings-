@@ -1,10 +1,15 @@
 # textures-pack-add-settings-
 textures pack yang mempunyai settings di dalam textures Minecraft Bedrock 
 
-contoh penggunaan settings texture pack Minecraft Bedrock 
-```
+<h1 text-aligt="center">
+  contoh penggunaan settings texture pack Minecraft Bedrock 
+</h1>
+  
+```json
 {
-  "format_version"; 2,
+  "format_version": 2,
+  "header": {},
+  "modules": [{}],
   "subpacks": [
     {
      "folder_name": "UI1",
