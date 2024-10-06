@@ -1,0 +1,35 @@
+{
+ "format_version": 2,
+ "header":{
+  "description": "Nexdy UI [ V1,5 ] [ 1.21.0 ]",
+  "name": "Nexdy UI",
+  "uuid":"123e4567-e89b-12d3-a456-426614174000",  // UUID baru
+  "version": [1,5,0],
+  "min_engine_version": [1, 21, 0 ]
+ },
+ "modules": [
+   {
+    "description": "Nexdy UI [ V1,5 ]",
+    "type": "resources",
+    "uuid":"234e5678-f89c-23e4-b567-536715285111",  // UUID baru
+    "version": [1,5,0]
+   }
+  ],
+ "subpacks": [
+    {
+     "folder_name": "UI1",
+     "name": "UI 1 §4Youtube: @Nexdy_mc",
+     "memory_tier": 1  // Menambahkan elemen memory_tier dengan nilai 1
+    },
+    {
+     "folder_name": "UI2",
+     "name": "UI 2 §aIG: @Nexdy_mc",
+     "memory_tier": 1  // Menambahkan elemen memory_tier dengan nilai 1
+    },
+    {
+     "folder_name": "UI3",
+     "name": "UI 3 §b(X): @Nexdy_mc",
+     "memory_tier": 1  // Menambahkan elemen memory_tier dengan nilai 1
+    }
+   ]
+}
