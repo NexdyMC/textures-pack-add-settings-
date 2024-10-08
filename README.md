@@ -1,9 +1,9 @@
 # textures-pack-add-settings-
 textures pack yang mempunyai settings di dalam textures Minecraft Bedrock 
 
-<h1 text-aligt="center">
+<h3 text-aligt="center">
   contoh penggunaan settings texture pack Minecraft Bedrock 
-</h1>
+</h3>
   
 ```json
 {
